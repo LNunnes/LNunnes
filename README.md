@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Eu gosto de League of Legends
--->
+
 
 <div align="center">
   <a href="https://github.com/LNunnes">
