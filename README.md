@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Back-end
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Eu gosto de League of Legends
 
