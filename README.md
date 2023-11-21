@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
-- 🌱 I’m currently learning Back-end
-- ⚡ Fun fact: Eu gosto de League of Legends
+- 🌱 I’m currently learning how to be better
+- ⚡ Fun fact: Naruto is top
 
 
 <div align="center">
